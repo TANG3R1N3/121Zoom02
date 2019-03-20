@@ -155,7 +155,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f97352",
+              "color": "#faaf40",
               "text-align": "left",
               "font-size": "60px",
               "font-family": "'Oxygen', sans-serif",
@@ -163,7 +163,7 @@
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "36px"
             }
           },
@@ -187,7 +187,7 @@
             "overlayOpacity": 0.5
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 121 Zoom",
-          "text": "&nbsp; <br><br>Language and ICT Solutions for education and company",
+          "text": "&nbsp; <br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Language and ICT Solutions for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;education and company",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
@@ -413,7 +413,7 @@
           "_anchor": "extFooter1-8",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f97352",
+              "color": "#faaf40",
               "font-size": "24px"
             },
             "UL": {
@@ -1650,7 +1650,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f97352",
+              "color": "#faaf40",
               "font-size": "24px"
             },
             "UL": {
@@ -1993,7 +1993,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f97352",
+              "color": "#faaf40",
               "font-size": "24px"
             },
             "UL": {
@@ -2163,7 +2163,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f97352",
+              "color": "#faaf40",
               "font-size": "24px"
             },
             "UL": {
