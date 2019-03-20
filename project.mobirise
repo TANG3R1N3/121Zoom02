@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "LANONET",
-    "currentPage": "page5.html",
+    "name": "LANONET-clone",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -58,12 +58,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ed5631",
+            "bgColor": "#413d3d",
             "fontSize": "1",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -78,7 +78,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -88,8 +90,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -101,13 +103,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d83a13"
+              "background": "#272424"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ec4a23!important"
+              "background": "#393636!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ed5631"
+              "background": "#413d3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -128,7 +130,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-1-104x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -145,7 +147,7 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1"
         },
@@ -155,7 +157,9 @@
             ".mbr-section-title": {
               "color": "#f97352",
               "text-align": "left",
-              "font-size": "46px"
+              "font-size": "60px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
@@ -182,7 +186,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "121 Zoom",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 121 Zoom",
           "text": "&nbsp; <br><br>Language and ICT Solutions for education and company",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
           "_tags": [
@@ -347,7 +351,7 @@
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#413d3d",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -371,7 +375,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#262626",
+            "bgColor": "#413d3d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -385,7 +389,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-327x402.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -435,12 +439,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ed5631",
+            "bgColor": "#413d3d",
             "fontSize": "1",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -455,7 +459,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -465,8 +471,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -478,13 +484,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d83a13"
+              "background": "#272424"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ec4a23!important"
+              "background": "#393636!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ed5631"
+              "background": "#413d3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -505,7 +511,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-1-104x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -523,7 +529,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-h"
         },
@@ -761,12 +767,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ed5631",
+            "bgColor": "#413d3d",
             "fontSize": "1",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -781,7 +787,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -791,8 +799,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -804,13 +812,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d83a13"
+              "background": "#272424"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ec4a23!important"
+              "background": "#393636!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ed5631"
+              "background": "#413d3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -831,7 +839,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-1-104x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -848,7 +856,7 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2d"
         },
@@ -1188,12 +1196,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ed5631",
+            "bgColor": "#413d3d",
             "fontSize": "1",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1208,7 +1216,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1218,8 +1228,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1231,13 +1241,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d83a13"
+              "background": "#272424"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ec4a23!important"
+              "background": "#393636!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ed5631"
+              "background": "#413d3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1258,7 +1268,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-1-104x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1275,7 +1285,7 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m"
         },
@@ -1300,7 +1310,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COMPANY SOLUTIONS",
-          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.<br><br>121 Zoom",
+          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.<br><br>TANG3R1N3",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH COMPANY</a>",
           "form": {
@@ -1603,7 +1613,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#262626",
+            "bgColor": "#413d3d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -1617,7 +1627,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-327x402.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1667,12 +1677,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ed5631",
+            "bgColor": "#413d3d",
             "fontSize": "1",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1687,7 +1697,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1697,8 +1709,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1710,13 +1722,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d83a13"
+              "background": "#272424"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ec4a23!important"
+              "background": "#393636!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ed5631"
+              "background": "#413d3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1737,7 +1749,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-1-104x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1755,7 +1767,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-p"
         },
@@ -1943,7 +1955,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#262626",
+            "bgColor": "#413d3d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -1957,7 +1969,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-327x402.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2008,12 +2020,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ed5631",
+            "bgColor": "#413d3d",
             "fontSize": "1",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2028,7 +2040,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2038,8 +2052,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -2051,13 +2065,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d83a13"
+              "background": "#272424"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ec4a23!important"
+              "background": "#393636!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ed5631"
+              "background": "#413d3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2078,7 +2092,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-1-104x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2096,7 +2110,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">121 Zoom</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-s"
         },
@@ -2111,7 +2125,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#262626",
+            "bgColor": "#413d3d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -2125,7 +2139,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zoom2logo-327x402.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2179,7 +2193,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "ICT SOLUTIONS",
-          "text": "<br>Components of an ICT system\n<br>ICT encompasses both the internet-enabled sphere as well as the mobile one powered by wireless networks. It also includes antiquated technologies, such as landline telephones, radio and television broadcast -- all of which are still widely used today alongside cutting-edge ICT pieces such as artificial intelligence and robotics.\n<br>ICT is sometimes used synonymously with IT (for information technology); however, ICT is generally used to represent a broader, more comprehensive list of all components related to computer and digital technologies than IT.\n<br>The list of ICT components is exhaustive, and it continues to grow. Some components, such as computers and telephones, have existed for decades. Others, such as smartphones, digital TVs and robots, are more recent entries.\n<br>ICT commonly means more than its list of components, though. It also encompasses the application of all those various components. It's here that the real potential, power of ICT can be found.<br>We are there to help you chose and use those parts which suit you best to help you succeed.<br><br>121 Zoom",
+          "text": "<br>Components of an ICT system\n<br>ICT encompasses both the internet-enabled sphere as well as the mobile one powered by wireless networks. It also includes antiquated technologies, such as landline telephones, radio and television broadcast -- all of which are still widely used today alongside cutting-edge ICT pieces such as artificial intelligence and robotics.\n<br>ICT is sometimes used synonymously with IT (for information technology); however, ICT is generally used to represent a broader, more comprehensive list of all components related to computer and digital technologies than IT.\n<br>The list of ICT components is exhaustive, and it continues to grow. Some components, such as computers and telephones, have existed for decades. Others, such as smartphones, digital TVs and robots, are more recent entries.\n<br>ICT commonly means more than its list of components, though. It also encompasses the application of all those various components. It's here that the real potential, power of ICT can be found.<br>We are there to help you chose and use those parts which suit you best to help you succeed.<br><br>TANG3R1N3",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH ICT</a>",
           "form": {
