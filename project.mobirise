@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -57,7 +57,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#faaf40",
             "fontSize": "1",
             "fontName": {
@@ -438,7 +438,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#faaf40",
             "fontSize": "1",
             "fontName": {
@@ -766,7 +766,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#faaf40",
             "fontSize": "1",
             "fontName": {
@@ -1195,7 +1195,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#faaf40",
             "fontSize": "1",
             "fontName": {
@@ -1676,7 +1676,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#faaf40",
             "fontSize": "1",
             "fontName": {
@@ -2019,7 +2019,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#faaf40",
             "fontSize": "1",
             "fontName": {
