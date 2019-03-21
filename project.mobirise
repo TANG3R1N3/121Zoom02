@@ -1011,7 +1011,7 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
+              "color": "#faaf40",
               "font-size": "25px"
             },
             ".mbr-section-subtitle": {
@@ -1399,8 +1399,9 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#ffffff",
-              "font-size": "25px"
+              "color": "#faaf40",
+              "font-size": "25px",
+              "text-align": "left"
             }
           },
           "_anchor": "extHeader10-1r"
@@ -1912,8 +1913,9 @@
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#ffffff",
-              "font-size": "25px"
+              "color": "#faaf40",
+              "font-size": "25px",
+              "text-align": "left"
             }
           },
           "_anchor": "extHeader10-w"
@@ -2345,8 +2347,9 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#ffffff",
-              "font-size": "25px"
+              "color": "#faaf40",
+              "font-size": "25px",
+              "text-align": "left"
             }
           },
           "_anchor": "extHeader10-u"
@@ -2699,7 +2702,7 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#ffffff",
+              "color": "#faaf40",
               "text-align": "left",
               "font-size": "25px"
             }
