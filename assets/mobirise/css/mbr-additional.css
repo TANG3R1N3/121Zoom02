@@ -6,7 +6,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -742,17 +741,6 @@ h6,
 #ext_menu-1 A {
   font-size: 14px;
 }
-#header5-3 .mbr-section-title {
-  color: #faaf40;
-  text-align: left;
-  font-size: 46px;
-  font-family: 'Oxygen', sans-serif;
-}
-#header5-3 .mbr-section-lead {
-  color: #faaf40;
-  text-align: center;
-  font-size: 25px;
-}
 #features7-7 .card-subtitle {
   color: #bcbcbc;
 }
@@ -764,23 +752,15 @@ h6,
   color: #ffffff;
   font-size: 17px;
 }
+#extFeatures9-33 .mbr-section-subtitle {
+  color: #ffffff;
+}
 #social-buttons4-10 .mbr-section-title,
 #social-buttons4-10 .btn-social {
   color: #fff;
 }
 #social-buttons4-10 .mbr-section-title {
   font-size: 17px;
-}
-#content8-2z .mbr-section-title,
-#content8-2z p {
-  text-align: right;
-  color: #fff;
-}
-#content8-2z P {
-  text-align: center;
-}
-#content8-2z .mbr-section-title {
-  text-align: center;
 }
 #extFooter1-8 .mbr-section-title {
   color: #faaf40;
