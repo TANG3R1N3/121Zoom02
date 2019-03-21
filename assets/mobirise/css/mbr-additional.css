@@ -752,15 +752,23 @@ h6,
   color: #ffffff;
   font-size: 17px;
 }
+#msg-box5-30 H3 {
+  font-size: 25px;
+}
+#extProgressBar3-34 path[stroke] {
+  stroke: #232323 !important;
+}
+#extProgressBar3-34 H4 {
+  font-size: 24px;
+}
 #extFeatures9-33 .mbr-section-subtitle {
   color: #ffffff;
 }
-#social-buttons4-10 .mbr-section-title,
-#social-buttons4-10 .btn-social {
-  color: #fff;
+#extFeatures9-33 .mbr-section-title {
+  font-size: 20px;
 }
-#social-buttons4-10 .mbr-section-title {
-  font-size: 17px;
+#social-buttons1-35 .mbr-section-title {
+  font-size: 20px;
 }
 #extFooter1-8 .mbr-section-title {
   color: #faaf40;

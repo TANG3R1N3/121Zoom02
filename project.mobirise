@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 112,
+    "uniqCompNum": 114,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -369,7 +369,73 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-30"
+          "_anchor": "msg-box5-30",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "progress1": "42",
+            "progress2": "36",
+            "progress3": "62",
+            "progress4": 60,
+            "progress5": 70,
+            "progress6": 80,
+            "showTitles": true,
+            "showSubtitles": true,
+            "showTexts": false,
+            "progressColor": "#232323",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Lots of progress",
+          "subtitle1": "These progress bars can be altered to suit our needs",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Even more progress",
+          "subtitle2": "Yada yada yada",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "fact 'n' figures",
+          "subtitle3": "Blah blah blah",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar3",
+          "_anchor": "extProgressBar3-34",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "#232323 !important"
+            },
+            "H4": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_params": {
@@ -737,38 +803,41 @@
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
             }
           }
         },
         {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "17px"
-            }
-          },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#413d3d",
+            "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
+          "text": "Share or follow us!",
           "_tags": [
             "Theme"
           ],
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>       ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-10"
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-35",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
