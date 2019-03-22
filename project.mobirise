@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -937,7 +937,7 @@
             ]
           },
           "title": "Our Clients",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "subtitle": "Here are some of our clients who will gladly tell you that we are dedicated to the task!",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
