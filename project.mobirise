@@ -32,7 +32,7 @@
     "uniqCompNum": 125,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteFonts": [],
