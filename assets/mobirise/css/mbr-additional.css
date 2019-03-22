@@ -683,15 +683,15 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-1 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-1 .close-icon::before,
 #ext_menu-1 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-1 .link,
 #ext_menu-1 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-1 .link {
@@ -724,7 +724,7 @@ h6,
   background: #faaf40;
 }
 #ext_menu-1 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-1 .bg-color.transparent.opened .link {
@@ -764,6 +764,9 @@ h6,
 }
 #extProgressBar3-34 H4 {
   font-size: 24px;
+}
+#extProgressBar3-34 H5 {
+  color: #ffffff;
 }
 #extFeatures9-33 .mbr-section-subtitle {
   color: #000000;
