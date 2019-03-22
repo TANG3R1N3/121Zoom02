@@ -754,6 +754,10 @@ h6,
 }
 #msg-box5-30 H3 {
   font-size: 25px;
+  text-align: center;
+}
+#msg-box5-30 P {
+  text-align: center;
 }
 #extProgressBar3-34 path[stroke] {
   stroke: #232323 !important;

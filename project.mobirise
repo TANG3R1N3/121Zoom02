@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 125,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -368,8 +368,8 @@
               "size": 0
             }
           },
-          "title": "Keeping you digitally connected!",
-          "text": "We at 121 Zoom are dedicated to the task, whatever it may be.<br>Rest assured that we have a solution for you, your school or company.",
+          "title": "<br>Keeping you digitally connected!",
+          "text": "We at 121 Zoom are dedicated to the task, whatever it may be.<br>Rest assured that we have a solution for you, your school or company.<br>Be it educational be it web related or be it a mixture of all of the above, with ICT problems thrown in for good luck, we're here to fix what cannot be fixed and to lift educational facilities world wide into the 21st century.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -378,7 +378,11 @@
           "_anchor": "msg-box5-30",
           "_styles": {
             "H3": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           }
         },
@@ -1175,7 +1179,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COMPANY SOLUTIONS",
-          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.<br><br>121 Zoom",
+          "text": "With the digital world comes digital challenges. All companies big and small need three things;<br>1. A good shop window (website)<br>2. Good &nbsp;promotional organization<br>3. Good staff relations and training<br>We can help with all of the above.<br>Contact us for a free consultation so that we can help you and your company become truly digital.<br><br>121 Zoom",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH COMPANY</a>",
           "form": {
@@ -2189,7 +2193,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "ICT SOLUTIONS",
-          "text": "<br>Components of an ICT system\n<br>ICT encompasses both the internet-enabled sphere as well as the mobile one powered by wireless networks. It also includes antiquated technologies, such as landline telephones, radio and television broadcast -- all of which are still widely used today alongside cutting-edge ICT pieces such as artificial intelligence and robotics.\n<br>ICT is sometimes used synonymously with IT (for information technology); however, ICT is generally used to represent a broader, more comprehensive list of all components related to computer and digital technologies than IT.\n<br>The list of ICT components is exhaustive, and it continues to grow. Some components, such as computers and telephones, have existed for decades. Others, such as smartphones, digital TVs and robots, are more recent entries.\n<br>ICT commonly means more than its list of components, though. It also encompasses the application of all those various components. It's here that the real potential, power of ICT can be found.<br>We are there to help you chose and use those parts which suit you best to help you succeed.<br><br>TANG3R1N3",
+          "text": "<br>Components of an ICT system\n<br>ICT encompasses both the internet-enabled sphere as well as the mobile one powered by wireless networks. It also includes antiquated technologies, such as landline telephones, radio and television broadcast -- all of which are still widely used today alongside cutting-edge ICT pieces such as artificial intelligence and robotics.\n<br>ICT is sometimes used synonymously with IT (for information technology); however, ICT is generally used to represent a broader, more comprehensive list of all components related to computer and digital technologies than IT.\n<br>The list of ICT components is exhaustive, and it continues to grow. Some components, such as computers and telephones, have existed for decades. Others, such as smartphones, digital TVs and robots, are more recent entries.\n<br>ICT commonly means more than its list of components, though. It also encompasses the application of all those various components. It's here that the real potential, power of ICT can be found.<br>We are there to help you chose and use those parts which suit you best to help you succeed.<br><br>121 Zoom",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH ICT</a>",
           "form": {
@@ -2682,7 +2686,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "EDUCATION SOLUTIONS",
-          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.\n<br><br>121 Zoom",
+          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become even more efficient which in turn helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.\n<br><br>121 Zoom",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH EDUCATION</a>",
           "form": {
@@ -3288,7 +3292,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Contact Us",
-          "text": "Leave your email and a question or three, and we'll get back to you.<br>121 Zoom",
+          "text": "Talk to us, who knows? you might just solve all of your educational, ICT, web and business problems with <br>a single e-mail. Stranger things have happened, right?<br>121 Zoom",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us at 121 Zoom</a>",
           "form": {
