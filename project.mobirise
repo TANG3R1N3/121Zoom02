@@ -212,9 +212,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page6.html#extHeader10-2v",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media2": {
@@ -224,9 +225,10 @@
               "name": "pages",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page2.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media3": {
@@ -236,9 +238,10 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page3.html#extHeader10-w",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media4": {
@@ -248,9 +251,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page4.html#extHeader10-u",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media5": {
@@ -260,9 +264,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page5.html#form2-z",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media6": {
@@ -383,7 +388,7 @@
             "showText": false,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -397,8 +402,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0"
+            "overlayColor": "#faaf40",
+            "overlayOpacity": "0.5"
           },
           "title": "VIDEO BACKGROUND",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
@@ -2046,9 +2051,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#faaf40",
+            "overlayOpacity": "0.5"
           },
           "title": "VIDEO BACKGROUND",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
@@ -3037,9 +3042,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": "0"
+            "overlay": true,
+            "overlayColor": "#faaf40",
+            "overlayOpacity": "0.5"
           },
           "title": "VIDEO BACKGROUND",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
