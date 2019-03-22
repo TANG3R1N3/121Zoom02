@@ -801,15 +801,15 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-1m .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-1m .close-icon::before,
 #ext_menu-1m .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-1m .link,
 #ext_menu-1m .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-1m .link {
@@ -842,7 +842,7 @@ h6,
   background: #faaf40;
 }
 #ext_menu-1m .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-1m .bg-color.transparent.opened .link {
@@ -900,15 +900,15 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-p .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-p .close-icon::before,
 #ext_menu-p .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-p .link,
 #ext_menu-p .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-p .link {
@@ -941,7 +941,7 @@ h6,
   background: #faaf40;
 }
 #ext_menu-p .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-p .bg-color.transparent.opened .link {
@@ -1009,15 +1009,15 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-s .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-s .close-icon::before,
 #ext_menu-s .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-s .link,
 #ext_menu-s .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-s .link {
@@ -1050,7 +1050,7 @@ h6,
   background: #faaf40;
 }
 #ext_menu-s .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-s .bg-color.transparent.opened .link {
@@ -1083,6 +1083,17 @@ h6,
   color: #faaf40;
   font-size: 25px;
   text-align: left;
+}
+#msg-box2-3i .mbr-section-title {
+  color: #faaf40;
+  text-align: center;
+  font-size: 25px;
+}
+#msg-box2-3i .mbr-section-subtitle {
+  color: #000000;
+}
+#extHeader3-3h H3 {
+  font-size: 25px;
 }
 #features7-1s .card-subtitle {
   color: #bcbcbc;
