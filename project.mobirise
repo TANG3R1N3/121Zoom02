@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1215,7 +1215,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COMPANY SOLUTIONS",
-          "text": "With the digital world comes digital challenges. All companies big and small need three things;<br>1. A good shop window (website)<br>2. Good &nbsp;promotional organization<br>3. Good staff relations and training<br>We can help with all of the above.<br>Contact us for a free consultation so that we can help you and your company become truly digital.<br><br>121 Zoom",
+          "text": "With the digital world comes digital challenges. All companies big and small need four things;<br>1. A good shop window (website)<br>2. Good &nbsp;promotional organization<br>3. Good staff relations and training<br>4. A good company profile<br>We can help with all of the above.<br>Contact us for a free consultation so that we can help you and your company become truly digital.<br><br>121 Zoom",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH COMPANY</a>",
           "form": {
@@ -1371,6 +1371,38 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-2-1024x768.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#faaf40",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Company Profiling",
+          "caption": "<p>We at 121 Zoom really do have all the answers for your company -</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3h"
         },
         {
           "_inherit": "header1",
@@ -1884,6 +1916,39 @@
           ],
           "_name": "header4",
           "_anchor": "header4-3g"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/XuJf2RTYbjU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/XuJf2RTYbjU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-3h"
         },
         {
           "_params": {

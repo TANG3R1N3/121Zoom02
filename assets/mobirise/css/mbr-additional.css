@@ -869,6 +869,10 @@ h6,
   font-size: 25px;
   text-align: left;
 }
+#content5-3h .mbr-section-title,
+#content5-3h p {
+  color: #fff;
+}
 #features7-1o .card-subtitle {
   color: #bcbcbc;
 }
