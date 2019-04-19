@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -213,10 +213,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page6.html#extHeader10-2v",
+              "link": "https://battyboomboom.wixsite.com/121demo",
               "size": 0,
               "color": "#fff",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "media2": {
@@ -1392,7 +1392,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#faaf40",
             "overlayOpacity": "0.3"
           },
