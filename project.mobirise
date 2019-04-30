@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2001,7 +2001,7 @@
           "_name": "extFeatures14",
           "_styles": {
             "H4": {
-              "color": "#faaf40"
+              "color": "#f38630"
             },
             ".card-subtitle": {
               "color": "#000000",
