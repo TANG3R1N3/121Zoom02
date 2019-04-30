@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#faaf40",
+        "dangerColor": "#f38630",
         "titleFont": "Oxygen",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -24,7 +24,8 @@
         "#225996",
         "#ed5631",
         "#232323",
-        "#413d3d"
+        "#413d3d",
+        "#f38630"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -59,7 +60,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
@@ -104,13 +105,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#e36b0d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f27e22!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f38630"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -197,7 +198,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -471,7 +472,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1001,7 +1002,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -1101,7 +1102,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
@@ -1146,13 +1147,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#e36b0d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f27e22!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f38630"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1258,7 +1259,7 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "25px",
               "text-align": "left"
             }
@@ -1453,7 +1454,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1680,7 +1681,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
@@ -1725,13 +1726,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#e36b0d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f27e22!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f38630"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1837,7 +1838,7 @@
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "25px",
               "text-align": "left"
             }
@@ -2023,7 +2024,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -2121,7 +2122,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
@@ -2166,13 +2167,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#e36b0d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f27e22!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f38630"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2337,7 +2338,7 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "25px",
               "text-align": "left"
             }
@@ -2347,7 +2348,7 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "text-align": "left",
               "font-size": "25px"
             },
@@ -2518,7 +2519,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2691,7 +2692,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
@@ -2736,13 +2737,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#e36b0d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f27e22!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f38630"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2848,7 +2849,7 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "text-align": "left",
               "font-size": "25px"
             }
@@ -3011,7 +3012,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3238,7 +3239,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#f38630",
             "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
@@ -3283,13 +3284,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#e36b0d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f27e22!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f38630"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3454,7 +3455,7 @@
               "font-size": "20px"
             },
             "H3": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "25px",
               "text-align": "left"
             }
