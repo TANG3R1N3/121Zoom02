@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -161,10 +161,10 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/main01-1873x808.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01-1372x674.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -330,7 +330,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
@@ -383,7 +383,8 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "12px"
             }
           }
         },
@@ -592,15 +593,15 @@
           },
           "title": "<br>OUR TEAM",
           "subtitle": "Here are the scally-wags in person",
-          "title1": "Simon Whittaker",
+          "title1": "Simon&nbsp;",
           "subtitle1": "Programmer",
-          "caption1": "This is your alter-ego Hee hee!",
-          "title2": "Some bird",
+          "caption1": "Info",
+          "title2": "Sandra&nbsp;",
           "subtitle2": "SEO",
-          "caption2": "We'd like her to be working with us, but, well, we've got no chance.",
-          "title3": "Robert Shipton",
+          "caption2": "Info",
+          "title3": "Robert&nbsp;",
           "subtitle3": "Manager",
-          "caption3": "This would be me if I were born on a South Pacific island<br>and was adopted at birth.",
+          "caption3": "Info",
           "title4": "Emily Brown",
           "subtitle4": "Reception",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1045,7 +1046,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom",
+          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -1073,7 +1074,7 @@
           "_anchor": "extFooter1-8",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "24px"
             },
             "UL": {
@@ -1220,7 +1221,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH COMPANY</a>",
           "form": {
-            "action": "battyboomboom@hotmail.se",
+            "action": "info@121zoom.org",
             "alerts": {
               "success": "Thanks for your time!"
             },
@@ -1627,7 +1628,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom",
+          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -1654,7 +1655,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "24px"
             },
             "UL": {
@@ -1800,7 +1801,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH WEB</a>",
           "form": {
-            "action": "battyboomboom@hotmail.se",
+            "action": "info@121zoom.org",
             "alerts": {
               "success": "Thanks for your time!"
             },
@@ -2067,7 +2068,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom",
+          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -2095,7 +2096,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "24px"
             },
             "UL": {
@@ -2237,7 +2238,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom",
+          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -2265,7 +2266,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "24px"
             },
             "UL": {
@@ -2299,7 +2300,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH ICT</a>",
           "form": {
-            "action": "battyboomboom@hotmail.se",
+            "action": "info@121zoom.org",
             "alerts": {
               "success": "Thanks for your time!"
             },
@@ -2810,7 +2811,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH EDUCATION</a>",
           "form": {
-            "action": "battyboomboom@hotmail.se",
+            "action": "info@121zoom.org",
             "alerts": {
               "success": "Thanks for your time!"
             },
@@ -3185,7 +3186,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom",
+          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -3212,7 +3213,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "24px"
             },
             "UL": {
@@ -3354,7 +3355,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom",
+          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -3382,7 +3383,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f38630",
               "font-size": "24px"
             },
             "UL": {
@@ -3416,7 +3417,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us at 121 Zoom</a>",
           "form": {
-            "action": "battyboomboom@hotmail.se",
+            "action": "info@121zoom.org",
             "alerts": {
               "success": "Thanks for your time!"
             },
