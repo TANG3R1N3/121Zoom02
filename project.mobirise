@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET-clone",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
     "uniqCompNum": 125,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -161,7 +161,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01-1372x674.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/01-1-1372x674.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -215,7 +215,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://www.121zoom.org",
-              "size": 0,
+              "size": "",
               "color": "#fff",
               "newWindow": true
             }
@@ -483,13 +483,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "Lots of progress",
-          "subtitle1": "These progress bars can be altered to suit our needs",
+          "subtitle1": "Progress is our motto",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Even more progress",
-          "subtitle2": "Yada yada yada",
+          "subtitle2": "Evolution in the Classroom",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "fact 'n' figures",
-          "subtitle3": "Blah blah blah",
+          "subtitle3": "This is why",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -545,26 +545,35 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face5.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face6.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x366.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -592,7 +601,7 @@
             }
           },
           "title": "<br>OUR TEAM",
-          "subtitle": "Here are the scally-wags in person",
+          "subtitle": "The team at 121",
           "title1": "Simon&nbsp;",
           "subtitle1": "Programmer",
           "caption1": "Info",
@@ -1046,7 +1055,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
+          "title": "<br><br><a href=\"mailto:info@121zoom.org\" style=\"font-weight: normal;\">info@121zoom</a>.<span style=\"font-weight: normal;\">org</span><br><span style=\"font-weight: normal;\"><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a>.org<br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a>.org<br></span><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -1074,7 +1083,7 @@
           "_anchor": "extFooter1-8",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f38630",
+              "color": "#f3c649",
               "font-size": "24px"
             },
             "UL": {
@@ -1345,13 +1354,13 @@
             }
           },
           "title1": "EMPLOYEE",
-          "subtitle1": "",
+          "subtitle1": "We help you",
           "caption1": "How can employees benefit?",
           "title2": "EMPLOYER",
-          "subtitle2": "",
+          "subtitle2": "We help you",
           "caption2": "How can employers benefit?",
           "title3": "COMPANY",
-          "subtitle3": "",
+          "subtitle3": "We help you",
           "caption3": "How can companies benefit?",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -1628,7 +1637,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
+          "title": "<br><br><a href=\"mailto:info@121zoom.org\" style=\"font-weight: normal;\">info@121zoom</a>.<span style=\"font-weight: normal;\">org</span><br><span style=\"font-weight: normal;\"><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a>.org<br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a>.org<br></span><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -1655,7 +1664,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f38630",
+              "color": "#f3c649",
               "font-size": "24px"
             },
             "UL": {
@@ -2068,7 +2077,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
+          "title": "<br><br><a href=\"mailto:info@121zoom.org\" style=\"font-weight: normal;\">info@121zoom</a>.<span style=\"font-weight: normal;\">org</span><br><span style=\"font-weight: normal;\"><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a>.org<br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a>.org<br></span><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -2096,7 +2105,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f38630",
+              "color": "#f3c649",
               "font-size": "24px"
             },
             "UL": {
@@ -2238,7 +2247,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
+          "title": "<br><br><a href=\"mailto:info@121zoom.org\" style=\"font-weight: normal;\">info@121zoom</a>.<span style=\"font-weight: normal;\">org</span><br><span style=\"font-weight: normal;\"><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a>.org<br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a>.org<br></span><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -2266,7 +2275,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f38630",
+              "color": "#f3c649",
               "font-size": "24px"
             },
             "UL": {
@@ -3186,7 +3195,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
+          "title": "<br><br><a href=\"mailto:info@121zoom.org\" style=\"font-weight: normal;\">info@121zoom</a>.<span style=\"font-weight: normal;\">org</span><br><span style=\"font-weight: normal;\"><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a>.org<br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a>.org<br></span><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -3213,7 +3222,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f38630",
+              "color": "#f3c649",
               "font-size": "24px"
             },
             "UL": {
@@ -3355,7 +3364,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li></ul>",
-          "title": "121 Zoom<br><br><a href=\"mailto:info@121zoom.org\">info@121zoom</a><br><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a><br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a><br><br>",
+          "title": "<br><br><a href=\"mailto:info@121zoom.org\" style=\"font-weight: normal;\">info@121zoom</a>.<span style=\"font-weight: normal;\">org</span><br><span style=\"font-weight: normal;\"><a href=\"mailto:robert@121zoom.org\">robert@121zoom</a>.org<br><a href=\"mailto:simon@121zoom.org\">simon@121zoom</a>.org<br></span><br>",
           "media": {
             "image": {
               "width": 1400,
@@ -3383,7 +3392,7 @@
           "_name": "extFooter1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f38630",
+              "color": "#f3c649",
               "font-size": "24px"
             },
             "UL": {
