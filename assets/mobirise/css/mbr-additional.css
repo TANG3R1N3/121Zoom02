@@ -825,27 +825,6 @@ section.form .container {
   text-align: center;
   font-size: 12px;
 }
-#extProgressBar3-34 path[stroke] {
-  stroke: #232323 !important;
-}
-#extProgressBar3-34 H4 {
-  font-size: 24px;
-}
-#extProgressBar3-34 H5 {
-  color: #ffffff;
-}
-#extFeatures9-33 .mbr-section-subtitle {
-  color: #000000;
-}
-#extFeatures9-33 .mbr-section-title {
-  font-size: 20px;
-}
-#extTestimonials5-3h .mbr-section-title {
-  color: #ffffff;
-}
-#extTestimonials5-3h .mbr-section-subtitle {
-  color: #ffffff;
-}
 #social-buttons1-35 .mbr-section-title {
   font-size: 20px;
 }
@@ -934,10 +913,6 @@ section.form .container {
   color: #f38630;
   font-size: 25px;
   text-align: left;
-}
-#content5-3h .mbr-section-title,
-#content5-3h p {
-  color: #fff;
 }
 #features7-1o .card-subtitle {
   color: #bcbcbc;
