@@ -760,11 +760,11 @@ section.form .container {
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-1 .link {
-  font-size: 1rem;
+  font-size: 1.05rem;
 }
 #ext_menu-1 .dropdown-item,
 #ext_menu-1 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.137rem;
 }
 #ext_menu-1 .link:hover,
 #ext_menu-1 .dropdown-item:hover,
@@ -806,6 +806,9 @@ section.form .container {
 #ext_menu-1 A {
   font-size: 14px;
 }
+#header1-31 .mbr-section-lead {
+  color: #f38630;
+}
 #features7-7 .card-subtitle {
   color: #bcbcbc;
 }
@@ -818,25 +821,27 @@ section.form .container {
   font-size: 17px;
 }
 #msg-box5-30 H3 {
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
 }
 #msg-box5-30 P {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
 }
 #social-buttons1-35 .mbr-section-title {
   font-size: 20px;
 }
-#extFooter1-8 .mbr-section-title {
-  color: #f3c649;
-  font-size: 24px;
-}
-#extFooter1-8 UL {
-  color: #ffffff;
-}
 
 
+#extMsg-box2-3n SPAN {
+  color: #f38630;
+}
+#msg-box2-3n .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-3n .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -904,16 +909,6 @@ section.form .container {
 #ext_menu-1m A {
   font-size: 14px;
 }
-#extHeader10-1r P {
-  text-align: left;
-  color: #ffffff;
-  font-size: 20px;
-}
-#extHeader10-1r H3 {
-  color: #f38630;
-  font-size: 25px;
-  text-align: left;
-}
 #features7-1o .card-subtitle {
   color: #bcbcbc;
 }
@@ -926,13 +921,6 @@ section.form .container {
 }
 #social-buttons1-37 .mbr-section-title {
   font-size: 20px;
-}
-#extFooter1-1q .mbr-section-title {
-  color: #f3c649;
-  font-size: 24px;
-}
-#extFooter1-1q UL {
-  color: #ffffff;
 }
 
 
@@ -1003,15 +991,6 @@ section.form .container {
 #ext_menu-p A {
   font-size: 14px;
 }
-#extHeader10-w P {
-  text-align: left;
-  color: #ffffff;
-}
-#extHeader10-w H3 {
-  color: #f38630;
-  font-size: 25px;
-  text-align: left;
-}
 #msg-box2-2k .mbr-section-title {
   color: #fff;
   font-size: 24px;
@@ -1020,28 +999,15 @@ section.form .container {
 #msg-box2-2k .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#extFeatures14-x H4 {
-  color: #f38630;
+#features7-3p .card-subtitle {
+  color: #bcbcbc;
 }
-#extFeatures14-x .card-subtitle {
-  color: #000000;
-  font-size: 15px;
-}
-#extFeatures14-x P {
-  color: #232323;
-}
-#extFeatures14-x H3 {
-  color: #efefef;
+#features7-3p .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 #social-buttons1-38 .mbr-section-title {
   font-size: 20px;
-}
-#extFooter1-q .mbr-section-title {
-  color: #f3c649;
-  font-size: 24px;
-}
-#extFooter1-q UL {
-  color: #ffffff;
 }
 
 
@@ -1222,15 +1188,11 @@ section.form .container {
 #ext_menu-1m A {
   font-size: 14px;
 }
-#extHeader10-3q P {
-  text-align: left;
-  color: #ffffff;
-  font-size: 20px;
+#msg-box2-3m .mbr-section-title {
+  color: #fff;
 }
-#extHeader10-3q H3 {
-  color: #f38630;
-  text-align: left;
-  font-size: 25px;
+#msg-box2-3m .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #features7-1o .card-subtitle {
   color: #bcbcbc;
@@ -1244,13 +1206,6 @@ section.form .container {
 }
 #social-buttons1-37 .mbr-section-title {
   font-size: 20px;
-}
-#extFooter1-1q .mbr-section-title {
-  color: #f3c649;
-  font-size: 24px;
-}
-#extFooter1-1q UL {
-  color: #ffffff;
 }
 
 
